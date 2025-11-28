@@ -1,4 +1,4 @@
-# 🐔 SAT Solver for the River Crossing Minimization Problem
+#  SAT Solver for the River Crossing Minimization Problem
 
 ## 1. Project Overview
 
